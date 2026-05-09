@@ -10,6 +10,9 @@ Planning notes for a sustainable year-round greenhouse hydroponic system for lea
 - [Outdoor Leafy Greens Hydroponics Investigation](outdoor-leafy-greens-hydroponics-investigation.md)  
   Initial investigation of outdoor hydroponic approaches, operating constraints, failure modes, and source references.
 
+- [Greenhouse Hardening: Mineral Nutrients and Aquaponics in Washington](greenhouse-hardening-mineral-nutrients-and-aquaponics-wa.md)  
+  Hardening roadmap for DIY mineral nutrients, A/B stock-solution safety, Washington aquaponics constraints, fish options, and skeptic-verifier findings.
+
 ## Current Recommendation
 
 For food production, use food-contact reservoirs and wetted parts:
