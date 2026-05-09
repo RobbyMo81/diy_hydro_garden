@@ -318,6 +318,28 @@ Do not use untreated rainwater for leafy greens. It can introduce bacteria and p
 
 ## Maintenance
 
+## Maintenance Time Estimate
+
+For the recommended food-safe DWC bucket or reservoir system, maintenance time scales mainly with the number of separate reservoirs.
+
+| Frequency | Time | Work |
+| --- | ---: | --- |
+| Daily | 5-10 min | Check air bubbles, water level, plant health, pests, wilting, algae, and water temperature. |
+| Two to three times per week | 10-20 min | Check pH and EC, top off water, and adjust nutrients or pH if needed. |
+| Weekly | 20-45 min | Inspect roots, clean debris, check air stones and tubing, prune or harvest, and log readings. |
+| Every one to two weeks | 45-90 min | Partial or full nutrient change, clean lids and cups, then reset EC and pH. |
+| Between crops | 1-2 hr | Empty, wash, sanitize, rinse, and reset reservoir and net cups. |
+
+Expected weekly commitment:
+
+| System | Estimated time |
+| --- | ---: |
+| 4-bucket food-safe HDPE DWC | 1.5-3 hr/week |
+| 8-bucket food-safe HDPE DWC | 2.5-5 hr/week |
+| 22 qt food-service PP reservoir DWC | 1-2.5 hr/week |
+
+Add about 30-60 min/week if mixing DIY mineral nutrients from salts instead of using a commercial one-part nutrient. Aquaponics is a separate workload and can require 30-60 min/day because fish health, ammonia, nitrite, solids removal, biofilter function, and backup aeration become critical.
+
 Daily in warm weather:
 
 - Confirm air bubbles are running.
