@@ -4,7 +4,7 @@ Date: 2026-05-09
 
 ## Food-Production Material Standard
 
-This system is intended for year-round food production in a greenhouse. Do not use general-purpose storage totes as the primary reservoir for the production build.
+This system is intended for year-round food production in a greenhouse. Use food-contact reservoirs and wetted parts.
 
 Use reservoirs and wetted parts that are explicitly food-contact appropriate:
 
@@ -15,13 +15,11 @@ Use reservoirs and wetted parts that are explicitly food-contact appropriate:
 - Keep reservoirs shaded or wrapped because even food-service translucent containers will grow algae if light reaches nutrient solution.
 - Keep solution cool; heat increases chemical migration and also increases root-disease risk. In a greenhouse, reservoir cooling is a core requirement, not a later upgrade.
 
-The original HDX tote option is now treated only as a short-term prototype container, not the food-production recommendation.
-
 ## Goal
 
 Build one small greenhouse deep-water culture hydroponic reservoir for leafy greens. This version is sized for 4-8 lettuce, bok choy, kale, mustard, or herb plants depending on reservoir size. It favors food-contact materials, low algae risk, easy sanitation, and repairable parts.
 
-The design uses either food-service PP/HDPE reservoirs or 5-gallon food-safe HDPE bucket modules, drilled lids or floating rafts, net cups, continuous aeration, shade or light blocking, insect exclusion, and simple water testing.
+The design uses either food-service PP/HDPE reservoirs or 5-gallon food-safe HDPE bucket modules, drilled lids, net cups, continuous aeration, shade or light blocking, insect exclusion, and simple water testing.
 
 ## 5-Gallon Food-Safe Bucket Option
 
@@ -63,7 +61,7 @@ Cons:
 - Water temperature changes faster than in a larger reservoir.
 - EC and pH can swing faster because each bucket has low water volume.
 - More air lines, check valves, and lids.
-- Less efficient footprint than raft beds.
+- Less efficient footprint than larger shared reservoirs.
 
 Best use:
 
@@ -73,7 +71,7 @@ Best use:
 - High-value greens
 - Quarantine or backup modules
 
-For steady lettuce production, use multiple bucket modules or move to larger food-grade raft beds once crop choices and nutrient targets are proven.
+For steady lettuce production, use multiple bucket modules or move to larger food-grade reservoirs once crop choices and nutrient targets are proven.
 
 ## Gemini Verification Result
 
@@ -81,10 +79,9 @@ Gemini was used as an opposing verifier for the material list and build plan. It
 
 - Add air-line check valves so reservoir water cannot siphon back into the air pump during a power failure.
 - Light-proof any translucent reservoir or lid because light leaks grow algae.
-- Avoid relying on general-purpose storage totes for a production food system.
 - Prefer a one-part vegetative nutrient such as MaxiGro over a three-part Flora Series for a first leafy-greens system.
 - Use the pH liquid test kit as a sanity check if buying a cheap digital pH meter.
-- Drill brittle tote lids slowly; score the hole first to avoid cracking.
+- Drill plastic lids slowly; score the hole first to avoid cracking.
 - Plan for water changes with either a drain fitting or a small transfer pump.
 
 Those corrections are included below.
@@ -98,7 +95,6 @@ Prices are rough current online prices found on 2026-05-09. Shipping, tax, local
 | 4-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $207-$268 | Modular production setup, 4 full-size plants |
 | 8-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $282-$364 | Modular production setup, 8 full-size plants |
 | 22 qt food-service PP reservoir DWC, if you already own a drill and GFCI-protected outlet | $162-$236 | Compact 4-6 plant reservoir |
-| Prototype tote DWC, if you already own a drill and GFCI-protected outlet | $163-$210 | Prototype only, not recommended for food-production use |
 | Add hole saw and GFCI cord | Add $47-$60 | Better assumption for buying from scratch |
 | Premium meter upgrade | Add $85-$110 | Replace budget pH/TDS combo with better pH and EC meters |
 
@@ -181,29 +177,6 @@ Best for a compact, food-contact reservoir with 4-6 small leafy-green sites.
 
 This system has fewer air lines than bucket DWC and is easier to manage as one reservoir, but crop problems are shared across all plants in the reservoir.
 
-### System D: 27 Gal Storage Tote Prototype DWC
-
-This is included only for comparison. It is not the recommended production food system because the tote is not explicitly food-contact certified.
-
-| Item | Qty | Unit cost | Extended cost |
-| --- | ---: | ---: | ---: |
-| HDX 27 gal tough tote | 1 | $9.98 | $9.98 |
-| 2-inch net cups, 10-pack | 1 | $2.30+ | $2.30+ |
-| Active Aqua 2-outlet air pump | 1 | $16-$24 | $16-$24 |
-| Active Aqua 2 in. x 2 in. air stones | 2 | $3.77 | $7.54 |
-| 1/4 in. airline tubing | 1 | $5-$10 | $5-$10 |
-| Airline check valves | 2 | $3.49 | $6.98 |
-| General Hydroponics pH Control Kit | 1 | $13-$23 | $13-$23 |
-| Budget pH/TDS/EC meter combo | 1 | $18.99 | $18.99 |
-| General Hydroponics MaxiGro 2.2 lb | 1 | $24.62-$29.58 | $24.62-$29.58 |
-| Rockwool or stonewool starter plugs | 1 | $10.88-$15.04 | $10.88-$15.04 |
-| Lettuce or greens seeds | 1-3 | $2-$10 | $2-$10 |
-| 40% shade cloth | 1 | $9.97-$15.97 | $9.97-$15.97 |
-| Insect netting | 1 | $8.78-$11.10 | $8.78-$11.10 |
-| Aluminum foil tape or opaque wrap | 1 | $15.76 | $15.76 |
-| Ratchet strap set | 1 | $9.97 | $9.97 |
-| Estimated subtotal |  |  | $163-$210 |
-
 ### Optional Add-Ons Shared By Any System
 
 | Item | Estimated cost | Notes |
@@ -220,10 +193,9 @@ This is included only for comparison. It is not the recommended production food 
 | Item | Qty | Est. cost | Acquisition link | Notes |
 | --- | ---: | ---: | --- | --- |
 | NSF polypropylene food-storage container, 22 qt | 1-2 | $15.49-$30.99 each | [WebstaurantStore round PP](https://www.webstaurantstore.com/cambro-rfs22pp190-22-qt-translucent-round-storage-container/214RFS22PP.html) / [Office Depot round PP](https://www.officedepot.com/a/products/7444133/Cambro-Round-Plastic-Food-Storage-Container/) / [WebstaurantStore square PP](https://www.webstaurantstore.com/cambro-22sfspp190-22-qt-translucent-square-food-storage-container-with-midnight-blue-colored-gradations/21422SFSPP.html) | Recommended production reservoir. PP, food-service use, NSF options. Must be light-blocked. |
-| Matching food-service lid | 1 per reservoir | varies | Same supplier as reservoir | Drill lid for net cups or use a separate food-safe raft. |
+| Matching food-service lid | 1 per reservoir | varies | Same supplier as reservoir | Drill lid for net cups. |
 | Food-safe 5 gal HDPE bucket | 4-8 | $5.98-$6.98 each | [Home Depot](https://www.homedepot.com/p/300197644) / [Lowe's](https://www.lowes.com/pd/United-Solutions-5-Gallon-s-BPA-Free-Food-Grade-Plastic-General-bucket/1000421377) | Recommended modular production option. Use one bucket per full-size plant. |
 | Food-safe bucket lid | 4-8 | $2.50-$2.79 each | [Tractor Supply](https://www.tractorsupply.com/tsc/product/fortiflex-5-gallon-bucket-lid) / [Uline](https://www.uline.com/Product/Detail/S-26425/Pails/Standard-Lid-for-5-Gallon-Clear-Plastic-Pail) | Drill one net-cup hole per lid. |
-| HDX 27 gal black/yellow tough tote | 1 | $9.98 | [Home Depot](https://www.homedepot.com/p/327528802) | Prototype only. Not recommended as the production food reservoir. |
 | 2-inch net cups | 10 | $2.30+ | [HTG Supply](https://www.htgsupply.com/products/2-inch-net-pots/) | Buy 10-pack or larger. |
 | Active Aqua 2-outlet air pump, 7.8 L/min | 1 | $16-$24 | [Hydrofarm](https://www.hydrofarm.com/p/active-aqua-air-pump-2-outlets-3w-7-8-l-min/aapa7-8l) / [PA Hydroponics](https://shop.pahydroponics.com/active-aqua-air-pump-2-outlets-3w-7-8-l-min/) | Runs continuously. Keep above water level and sheltered from rain. |
 | Active Aqua 2 in. x 2 in. air stones | 2 | $7.54 total | [Hydrofarm](https://www.hydrofarm.com/p/active-aqua-air-stone-cylindrical-2-x-2/ascm) | Larger 2 in. x 4 in. stones are also fine. |
@@ -238,7 +210,6 @@ This is included only for comparison. It is not the recommended production food 
 | 40% shade cloth, about 6 ft. x 12 ft. | 1 | $9.97-$15.97 | [Home Depot](https://www.homedepot.com/p/315629620) | Use during hot or intense sun. |
 | Insect netting, about 6 ft. x 10 ft. | 1 | $8.78-$11.10 | [Home Depot](https://www.homedepot.com/p/317114928) | Protects from caterpillars, aphids, whiteflies, and debris. |
 | Aluminum foil tape | 1 roll | $15.76 | [Home Depot](https://www.homedepot.com/p/302742795) | Light-proof yellow lid and seal extra gaps. |
-| Ratchet strap set | 1 | $9.97 | [Home Depot](https://www.homedepot.com/b/Hardware-Tie-Down-Straps-Ratchet-Straps/4/N-5yc1vZ2fkomm1Z1z14124) | Needed only if using a flexible tote prototype. |
 | 2-inch hole saw with mandrel | 1 | $19.97 | [Home Depot](https://www.homedepot.com/p/206797336) | Needed if you do not already own the right bit/arbor. |
 | Outdoor GFCI cord or GFCI-protected outlet | 1 | $26.99-$39.98 | [Home Depot](https://www.homedepot.com/b/Electrical-Electrical-Cords-Extension-Cords-GFCI-Plugs/Indoor-Outdoor/N-5yc1vZcgerZ1z11evg) | Use GFCI protection for outdoor electrical equipment. |
 
@@ -305,19 +276,19 @@ For a 22 qt food-service lid, a practical layout is two rows of two or two rows 
 
 ## Build Instructions
 
-1. Wash the tote and lid with mild dish soap. Rinse well.
+1. Wash the reservoir and lid with mild dish soap. Rinse well.
 2. Set the lid on the reservoir and mark net-cup hole centers. For buckets, mark one centered hole per lid.
 3. Drill holes with a 2-inch hole saw. For brittle plastic, start slowly. A useful technique is to run the hole saw in reverse briefly to score the plastic, then drill forward at low speed.
 4. Test-fit net cups. They should sit securely without falling through.
 5. Drill two small airline pass-through holes near one end of the lid.
 6. Light-proof the lid and reservoir sides with aluminum foil tape, opaque wrap, or an external cover. In a humid greenhouse, black vinyl wrap or exterior black paint covered by a white/reflective layer is more durable than foil tape alone. Do not leave exposed water visible.
 7. Place the empty reservoir in its final greenhouse location before filling.
-8. If using a flexible tote prototype, wrap a ratchet strap around the middle to reduce bowing. Skip this for rigid food-service containers unless needed.
+8. Confirm the reservoir is stable, level, and easy to access for water changes.
 9. Place air stones in the bottom of the reservoir.
 10. Connect air stones to airline tubing.
 11. Install one check valve on each air line. Match the airflow direction arrow toward the air stone.
 12. Place the air pump above the reservoir waterline and sheltered from rain.
-13. Fill the tote with potable water. Leave enough air gap that the net cups do not flood over the top.
+13. Fill the reservoir with potable water. Leave enough air gap that the net cups do not flood over the top.
 14. Add MaxiGro gradually according to label directions. For seedlings, start weaker than full strength.
 15. Stir or aerate for 30-60 minutes.
 16. Measure EC. For lettuce, aim for about 1.2-1.8 mS/cm once plants are established. Start seedlings closer to the low end.
@@ -381,14 +352,14 @@ Between crops:
 - Use GFCI protection for all greenhouse electrical equipment near water.
 - Keep the air pump sheltered from rain and above the reservoir waterline.
 - Use drip loops on cords.
-- Do not move the tote when full.
+- Do not move any reservoir when full.
 - Keep pH up/down away from children and pets.
 - Store nutrient salts and pH chemicals outside greenhouse heat and direct sun. Keep containers sealed so dry nutrients do not clump and liquid reagents do not degrade.
 - Wash greens before eating.
 
 ## Known Tradeoffs
 
-- Food-service reservoirs cost more than storage totes, but they are the correct material choice for food production.
+- Food-service reservoirs and food-safe buckets cost more than utility containers, but they are the correct material choice for food production.
 - Translucent food-service containers must be externally light-blocked to prevent algae.
 - Budget meters are usable but need cross-checking.
 - Greenhouse DWC is vulnerable to heat. If water stays above 75 F, expect root disease and bolting unless the reservoir is shaded, insulated, buried, or moved to a cooler location.
@@ -397,11 +368,11 @@ Between crops:
 
 After the first successful crop:
 
-1. Add a second tote so lettuce/herbs and heavier greens can run different EC levels.
+1. Add a second food-safe reservoir so lettuce/herbs and heavier greens can run different EC levels.
 2. Upgrade meters if readings are inconsistent.
 3. Add a drain fitting or dedicated transfer pump.
 4. Build a simple PVC hoop frame for insect netting and shade cloth.
-5. Scale to larger shared food-grade reservoirs or raft beds once bucket trials prove crop and nutrient targets.
+5. Scale to larger shared food-grade reservoirs once bucket trials prove crop and nutrient targets.
 
 ## Source Links
 

@@ -16,6 +16,3 @@ For food production, use food-contact reservoirs and wetted parts:
 
 - Food-safe `#2 HDPE` 5-gallon bucket DWC modules for modular production.
 - NSF food-service `#5 PP` or `#2 HDPE` containers for compact reservoir systems.
-- Avoid general-purpose storage totes as production reservoirs.
-
-The storage tote design is retained only as a prototype comparison.

@@ -6,19 +6,19 @@ Date: 2026-05-09
 
 Build a small aerated deep-water culture system for the first version. For DIY leafy greens, DWC is more forgiving than NFT because roots have more water volume, brief pump interruptions are less catastrophic, and construction is simpler.
 
-For food production, use food-contact PP or HDPE reservoirs and wetted parts. Treat general-purpose storage totes as prototype-only, not as the recommended production reservoir.
+For food production, use food-contact PP or HDPE reservoirs and wetted parts.
 
 The main outdoor risk is not plumbing complexity. It is hot nutrient solution, which reduces dissolved oxygen and increases root disease risk. Treat water temperature control as a core design requirement.
 
 ## Gemini Verifier Summary
 
-Gemini was used as an opposing verifier. It agreed with the basic raft/DWC direction but challenged several assumptions:
+Gemini was used as an opposing verifier. It agreed with the basic DWC direction but challenged several assumptions:
 
 - Shade cloth and an opaque reservoir are not enough if the water gets too warm.
 - Municipal water can contain chloramine and high alkalinity, which can cause pH drift.
 - Weekly checks may be too infrequent during hot weather because evaporation can raise EC quickly.
 - Mixed-crop reservoirs can be inefficient because lettuce, spinach, chard, and brassicas do not all prefer the same EC.
-- Small light leaks around net cups or raft holes can cause algae.
+- Small light leaks around net cups or lid holes can cause algae.
 - Outdoor systems need pest exclusion, not just nutrient management.
 
 The most important design change from the verifier critique is to add a real water-temperature strategy: shade, insulation, partial burial, or another way to keep the reservoir cool.
@@ -28,7 +28,7 @@ The most important design change from the verifier critique is to add a real wat
 Use:
 
 - Food-safe 5-gallon HDPE bucket modules, or an NSF food-service PP/HDPE reservoir
-- Floating foam raft or opaque tote lid
+- Food-contact reservoir lid
 - 2-inch net cups
 - 1 full-size plant per 5-gallon bucket, or 4-6 plant sites in a compact food-service reservoir
 - Aquarium air pump
@@ -94,7 +94,7 @@ High alkalinity can make pH drift upward after adjustment. If that happens, test
 
 ## Build Sequence
 
-1. Drill net-cup holes in a food-contact bucket lid, food-service lid, or compatible food-safe raft.
+1. Drill net-cup holes in a food-contact bucket lid or food-service lid.
 2. Install air stones at the bottom of the reservoir.
 3. Fill the reservoir with potable water.
 4. Add hydroponic nutrients until EC reaches the target range.
