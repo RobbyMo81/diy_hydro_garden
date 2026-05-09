@@ -13,7 +13,7 @@ Use reservoirs and wetted parts that are explicitly food-contact appropriate:
 - Avoid polycarbonate for this project because it can contain BPA.
 - Avoid unknown `#7`, PVC `#3`, polystyrene `#6`, old plastic, smelly plastic, recycled-content bins with unknown origin, and any container previously used for non-food chemicals.
 - Keep reservoirs shaded or wrapped because even food-service translucent containers will grow algae if light reaches nutrient solution.
-- Keep solution cool; heat increases chemical migration and also increases root-disease risk.
+- Keep solution cool; heat increases chemical migration and also increases root-disease risk. In a greenhouse, reservoir cooling is a core requirement, not a later upgrade.
 
 The original HDX tote option is now treated only as a short-term prototype container, not the food-production recommendation.
 
@@ -95,10 +95,10 @@ Prices are rough current online prices found on 2026-05-09. Shipping, tax, local
 
 | Build level | Estimated cost | Notes |
 | --- | ---: | --- |
-| 4-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $180-$245 | Modular production setup, 4 full-size plants |
-| 8-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $235-$340 | Modular production setup, 8 full-size plants |
-| 22 qt food-service PP reservoir DWC, if you already own a drill and GFCI-protected outlet | $160-$230 | Compact 4-6 plant reservoir |
-| Prototype tote DWC, if you already own a drill and GFCI-protected outlet | $150-$210 | Prototype only, not recommended for food-production use |
+| 4-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $207-$268 | Modular production setup, 4 full-size plants |
+| 8-bucket food-safe HDPE DWC, if you already own a drill and GFCI-protected outlet | $282-$364 | Modular production setup, 8 full-size plants |
+| 22 qt food-service PP reservoir DWC, if you already own a drill and GFCI-protected outlet | $162-$236 | Compact 4-6 plant reservoir |
+| Prototype tote DWC, if you already own a drill and GFCI-protected outlet | $163-$210 | Prototype only, not recommended for food-production use |
 | Add hole saw and GFCI cord | Add $47-$60 | Better assumption for buying from scratch |
 | Premium meter upgrade | Add $85-$110 | Replace budget pH/TDS combo with better pH and EC meters |
 
@@ -127,7 +127,7 @@ Best for first production trials, crop isolation, and modular year-round greenho
 | 40% shade cloth | 1 | $9.97-$15.97 | $9.97-$15.97 |
 | Insect netting | 1 | $8.78-$11.10 | $8.78-$11.10 |
 | Aluminum foil tape or opaque wrap | 1 | $15.76 | $15.76 |
-| Estimated subtotal |  |  | $207-$259 |
+| Estimated subtotal |  |  | $207-$268 |
 
 Lower-cost variant: use one 4-outlet air pump instead of two 2-outlet pumps if available. That reduces clutter and can lower cost, but creates one shared aeration failure point.
 
@@ -152,7 +152,7 @@ Best for modular production after the 4-bucket trial works.
 | 40% shade cloth | 1 | $9.97-$15.97 | $9.97-$15.97 |
 | Insect netting | 1 | $8.78-$11.10 | $8.78-$11.10 |
 | Aluminum foil tape or opaque wrap | 1 | $15.76 | $15.76 |
-| Estimated subtotal |  |  | $283-$376 |
+| Estimated subtotal |  |  | $282-$364 |
 
 The 8-bucket system is cheaper per plant than the 4-bucket system because meters, nutrients, seed-starting supplies, shade cloth, and netting are shared.
 
@@ -177,7 +177,7 @@ Best for a compact, food-contact reservoir with 4-6 small leafy-green sites.
 | 40% shade cloth | 1 | $9.97-$15.97 | $9.97-$15.97 |
 | Insect netting | 1 | $8.78-$11.10 | $8.78-$11.10 |
 | Aluminum foil tape or opaque wrap | 1 | $15.76 | $15.76 |
-| Estimated subtotal |  |  | $183-$242 |
+| Estimated subtotal |  |  | $162-$236 |
 
 This system has fewer air lines than bucket DWC and is easier to manage as one reservoir, but crop problems are shared across all plants in the reservoir.
 
@@ -202,7 +202,7 @@ This is included only for comparison. It is not the recommended production food 
 | Insect netting | 1 | $8.78-$11.10 | $8.78-$11.10 |
 | Aluminum foil tape or opaque wrap | 1 | $15.76 | $15.76 |
 | Ratchet strap set | 1 | $9.97 | $9.97 |
-| Estimated subtotal |  |  | $173-$220 |
+| Estimated subtotal |  |  | $163-$210 |
 
 ### Optional Add-Ons Shared By Any System
 
@@ -262,6 +262,21 @@ This is included only for comparison. It is not the recommended production food 
 - Gloves and eye protection
 - Bucket or hose for filling
 
+## Greenhouse Heat Control
+
+For year-round greenhouse production, assume 5-gallon buckets and small reservoirs will heat quickly. Water-temperature control is part of the base design.
+
+Use at least two of these controls:
+
+- Put reservoirs below bench level or partially bury them where practical.
+- Wrap reservoirs with opaque insulation or reflective outer wrap.
+- Keep reservoirs out of direct sun even when plants receive light.
+- Use white or reflective outer surfaces over black light-blocking layers.
+- Increase reservoir volume when possible; larger water mass changes temperature more slowly.
+- Track solution temperature with the EC/TDS meter if it includes temperature.
+
+If nutrient solution repeatedly exceeds about 75 F, expect higher root-disease pressure and faster bolting. Fix temperature before scaling plant count.
+
 ## Time To Build
 
 | Task | Time |
@@ -295,7 +310,7 @@ For a 22 qt food-service lid, a practical layout is two rows of two or two rows 
 3. Drill holes with a 2-inch hole saw. For brittle plastic, start slowly. A useful technique is to run the hole saw in reverse briefly to score the plastic, then drill forward at low speed.
 4. Test-fit net cups. They should sit securely without falling through.
 5. Drill two small airline pass-through holes near one end of the lid.
-6. Light-proof the lid and reservoir sides with aluminum foil tape, opaque wrap, or an external cover. Do not leave exposed water visible.
+6. Light-proof the lid and reservoir sides with aluminum foil tape, opaque wrap, or an external cover. In a humid greenhouse, black vinyl wrap or exterior black paint covered by a white/reflective layer is more durable than foil tape alone. Do not leave exposed water visible.
 7. Place the empty reservoir in its final greenhouse location before filling.
 8. If using a flexible tote prototype, wrap a ratchet strap around the middle to reduce bowing. Skip this for rigid food-service containers unless needed.
 9. Place air stones in the bottom of the reservoir.
@@ -313,6 +328,8 @@ For a 22 qt food-service lid, a practical layout is two rows of two or two rows 
 21. Add insect netting over the crop area.
 22. Add shade cloth during hot sun, especially if air temperatures are above 80 F.
 
+Use lids that are explicitly compatible with the selected buckets. A food-safe lid from another brand may be safe material but still seal poorly, increasing evaporation and pest access.
+
 ## Operating Targets
 
 | Parameter | Target |
@@ -324,6 +341,7 @@ For a 22 qt food-service lid, a practical layout is two rows of two or two rows 
 | Air pump | Run 24/7 |
 | Water source | Potable municipal or filtered water |
 | Reservoir material | Food-contact PP or HDPE |
+| Nutrient and pH chemical storage | Cool, dry, shaded indoor storage |
 
 Do not use untreated rainwater for leafy greens. It can introduce bacteria and parasites.
 
@@ -335,6 +353,7 @@ Daily in warm weather:
 - Check water level.
 - Look for wilting, algae, pests, brown roots, or bad odor.
 - Feel the reservoir. If it is warm to the touch, add shade or insulation.
+- Check for bolting or bitterness risk during heat spikes; harvest early if plants begin elongating.
 
 Two to three times per week:
 
@@ -353,7 +372,8 @@ Between crops:
 
 - Empty the reservoir.
 - Remove old roots.
-- Wash tote, lid, net cups, and air stones.
+- Wash reservoir, lid, net cups, and air stones.
+- Sanitize wetted parts with a food-safe sanitation protocol such as diluted unscented bleach followed by thorough rinsing, or a no-rinse brewing sanitizer used according to label directions.
 - Restart with fresh nutrient solution.
 
 ## Safety Notes
@@ -363,6 +383,7 @@ Between crops:
 - Use drip loops on cords.
 - Do not move the tote when full.
 - Keep pH up/down away from children and pets.
+- Store nutrient salts and pH chemicals outside greenhouse heat and direct sun. Keep containers sealed so dry nutrients do not clump and liquid reagents do not degrade.
 - Wash greens before eating.
 
 ## Known Tradeoffs
@@ -370,7 +391,7 @@ Between crops:
 - Food-service reservoirs cost more than storage totes, but they are the correct material choice for food production.
 - Translucent food-service containers must be externally light-blocked to prevent algae.
 - Budget meters are usable but need cross-checking.
-- Outdoor DWC is vulnerable to heat. If summer water stays above 75 F, expect root disease and bolting unless the reservoir is shaded, insulated, buried, or moved to a cooler location.
+- Greenhouse DWC is vulnerable to heat. If water stays above 75 F, expect root disease and bolting unless the reservoir is shaded, insulated, buried, or moved to a cooler location.
 
 ## Upgrade Path
 
@@ -380,7 +401,7 @@ After the first successful crop:
 2. Upgrade meters if readings are inconsistent.
 3. Add a drain fitting or dedicated transfer pump.
 4. Build a simple PVC hoop frame for insect netting and shade cloth.
-5. Partially bury or insulate the reservoir for summer stability.
+5. Scale to larger shared food-grade reservoirs or raft beds once bucket trials prove crop and nutrient targets.
 
 ## Source Links
 

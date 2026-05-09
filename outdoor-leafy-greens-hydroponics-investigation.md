@@ -4,7 +4,9 @@ Date: 2026-05-09
 
 ## Recommendation
 
-Build a small outdoor recirculating deep-water culture raft system for the first version. For DIY leafy greens, this is more forgiving than NFT because roots have more water volume, brief pump interruptions are less catastrophic, and construction is simpler.
+Build a small aerated deep-water culture system for the first version. For DIY leafy greens, DWC is more forgiving than NFT because roots have more water volume, brief pump interruptions are less catastrophic, and construction is simpler.
+
+For food production, use food-contact PP or HDPE reservoirs and wetted parts. Treat general-purpose storage totes as prototype-only, not as the recommended production reservoir.
 
 The main outdoor risk is not plumbing complexity. It is hot nutrient solution, which reduces dissolved oxygen and increases root disease risk. Treat water temperature control as a core design requirement.
 
@@ -25,10 +27,10 @@ The most important design change from the verifier critique is to add a real wat
 
 Use:
 
-- 17-30 gallon opaque tote or food-safe reservoir
+- Food-safe 5-gallon HDPE bucket modules, or an NSF food-service PP/HDPE reservoir
 - Floating foam raft or opaque tote lid
 - 2-inch net cups
-- 8-12 plant sites for the first build
+- 1 full-size plant per 5-gallon bucket, or 4-6 plant sites in a compact food-service reservoir
 - Aquarium air pump
 - 2 air stones
 - Optional small circulation pump
@@ -43,7 +45,7 @@ Use:
 Best placement:
 
 - Put the reservoir in shade.
-- Prefer partial burial or an insulated box if daytime temperatures are high.
+- In a greenhouse, use insulation, shade, partial burial, larger water volume, or another active cooling strategy before scaling.
 - Keep all nutrient solution surfaces dark.
 - Avoid placing the reservoir on hot concrete in full sun.
 
@@ -92,7 +94,7 @@ High alkalinity can make pH drift upward after adjustment. If that happens, test
 
 ## Build Sequence
 
-1. Drill net-cup holes in an opaque tote lid or floating raft.
+1. Drill net-cup holes in a food-contact bucket lid, food-service lid, or compatible food-safe raft.
 2. Install air stones at the bottom of the reservoir.
 3. Fill the reservoir with potable water.
 4. Add hydroponic nutrients until EC reaches the target range.
@@ -144,7 +146,7 @@ Between crops:
 
 ## Practical Verdict
 
-The best first build is a small shaded and aerated DWC raft bin. It should be simple, cool, dark, and easy to clean. Do not scale up until the first bin proves that water temperature, pH, EC, and pests are manageable in the specific outdoor location.
+The best first build for food production is a small shaded and aerated food-contact DWC system, preferably 5-gallon HDPE bucket modules or a food-service PP/HDPE reservoir. It should be simple, cool, dark, and easy to clean. Do not scale up until the first system proves that water temperature, pH, EC, sanitation, and pests are manageable in the specific greenhouse location.
 
 ## Sources
 
