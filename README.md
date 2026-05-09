@@ -13,6 +13,9 @@ Planning notes for a sustainable year-round greenhouse hydroponic system for lea
 - [Greenhouse Hardening: Mineral Nutrients and Aquaponics in Washington](greenhouse-hardening-mineral-nutrients-and-aquaponics-wa.md)  
   Hardening roadmap for DIY mineral nutrients, A/B stock-solution safety, Washington aquaponics constraints, fish options, and skeptic-verifier findings.
 
+- [Greenhouse Automation Path](greenhouse-automation-path.md)  
+  Phased automation roadmap covering monitoring, alerts, greenhouse controls, guarded top-off, pH/EC dosing risks, electrical standards, and Gemini skeptic-verifier findings.
+
 ## Current Recommendation
 
 For food production, use food-contact reservoirs and wetted parts:
