@@ -46,6 +46,40 @@ These are conservative fresh-harvest estimates for looseleaf lettuce, mini-romai
 
 Cut-and-come-again harvest can stretch leaf lettuce and herbs, but quality usually declines after 2-3 cuts. In Western Washington from roughly November through February, greenhouse light can be too low for meaningful leafy-green production without supplemental lighting; harvestable growth may slow to near zero even if plants stay alive.
 
+## Break-Even ROI Assumptions
+
+The break-even estimates use the production table above and treat labor as unpaid. They are household replacement-value estimates, not commercial farm financials.
+
+Values used:
+
+| Input | Value |
+| --- | ---: |
+| Productive months without winter lighting | 8 months/year |
+| Commodity lettuce replacement value | $3/lb |
+| Premium greens/herbs replacement value | $6/lb |
+| High-value organic greens/herbs replacement value | $10/lb |
+| Labor cost | $0 |
+| Greenhouse structure, heat, cooling, benches, and supplemental lighting | Excluded |
+| Crop failure risk | Excluded |
+
+Monthly operating-cost allowance:
+
+| System | Monthly operating cost used | Included in this allowance |
+| --- | ---: | --- |
+| Compact food-service PP/HDPE reservoir | $2-$4/month | Nutrient/fertilizer/minerals, pH adjusters, starter plugs, small consumables, and air-pump electricity |
+| 4-bucket food-safe HDPE DWC | $3-$6/month | Nutrient/fertilizer/minerals, pH adjusters, starter plugs, small consumables, and air-pump electricity |
+| 8-bucket food-safe HDPE DWC | $5-$9/month | Nutrient/fertilizer/minerals, pH adjusters, starter plugs, small consumables, and air-pump electricity |
+
+Formula:
+
+```text
+Annual net value = (monthly harvest x crop value per lb x 8 months) - (monthly operating cost x 8 months)
+
+Break-even years = build cost / annual net value
+```
+
+Resulting interpretation: commodity lettuce does not realistically pay back the system. Break-even becomes plausible only when the system replaces higher-value herbs, specialty greens, or organic packaged greens and when winter lighting/heating and labor are not counted.
+
 ## Purpose
 
 Build a year-round greenhouse system for leafy greens using food-contact hydroponic hardware, conservative nutrient management, and monitoring-first automation. The starting point is mineral-nutrient deep water culture (DWC), not aquaponics or automatic chemical dosing.
