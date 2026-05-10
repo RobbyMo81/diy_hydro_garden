@@ -19,6 +19,9 @@ Planning notes for a sustainable year-round greenhouse hydroponic system for lea
 - [Greenhouse Automation Path](greenhouse-automation-path.md)  
   Phased automation roadmap covering monitoring, alerts, greenhouse controls, guarded top-off, pH/EC dosing risks, electrical standards, and Gemini skeptic-verifier findings.
 
+- [Greenhouse Solar Thermal Future Enhancement](greenhouse-solar-thermal-future-enhancement.md)  
+  Future enhancement notes for water-vs-sand thermal storage, Western Washington solar-resource limits, collector sizing, control logic, and hydroponic root-zone safety.
+
 ## Current Recommendation
 
 For food production, use food-contact reservoirs and wetted parts:
