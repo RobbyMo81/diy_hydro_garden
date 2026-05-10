@@ -2,6 +2,38 @@
 
 Date: 2026-05-09
 
+## Budget Summary
+
+These estimates cover a complete first-pass hydroponic setup with food-safe reservoirs, aeration, initial nutrients, basic pH/EC testing, starter supplies, shade, insect exclusion, and light-blocking. They exclude tax, shipping, greenhouse structure, benches, heat, cooling, and supplemental lighting.
+
+Western Washington winter warning: reliable year-round production may require heat, air movement, humidity control, and supplemental lighting that can cost more than the base hydroponic system.
+
+| System | Estimated cost | Notes |
+| --- | ---: | --- |
+| Compact food-service PP/HDPE reservoir | $162-$236 | Lowest-cost compact shared reservoir |
+| 4-bucket food-safe HDPE DWC | $207-$268 | Modular first production setup |
+| 8-bucket food-safe HDPE DWC | $282-$364 | Better cost per plant after trial |
+| Hole saw and GFCI cord, if needed | Add $47-$60 | Common first-build tools |
+| Premium meter upgrade | Add $85-$110 | Better EC and pH reliability |
+
+Quick stats:
+
+| Item | Estimate |
+| --- | ---: |
+| Hands-on build time | 2-3 hr |
+| Water stabilization before transplant | 12-24 hr |
+| Expected first planting | Usually next day |
+
+Automation and future resilience are separate costs. The basic-alerts estimate includes hardened greenhouse overhead such as enclosure, GFCI protection, power supply, wiring, glands, terminal blocks, and mounting hardware:
+
+| Add-on | Estimated cost | Notes |
+| --- | ---: | --- |
+| Basic alerts | $275-$450 | Existing Home Assistant host |
+| New Home Assistant host | $435-$670 total | Dashboard and alert host included |
+| Guarded top-off | Add $100-$220 | Small reservoir, dual floats, pump, runtime limits |
+| pH/EC monitoring | $500-$775, or $625-$750 kit path | Monitoring only, not automatic dosing |
+| Solar-thermal water-barrel enhancement | Future sizing required | Treat as greenhouse air buffering, not DWC heating |
+
 ## Purpose
 
 Build a year-round greenhouse system for leafy greens using food-contact hydroponic hardware, conservative nutrient management, and monitoring-first automation. The starting point is mineral-nutrient deep water culture (DWC), not aquaponics or automatic chemical dosing.
@@ -43,20 +75,6 @@ Start with a commercial one-part leafy-green nutrient. DIY mineral salts are the
 Reservoir cooling is part of the base design. Shade, insulate, bury, or increase water volume if the nutrient solution repeatedly approaches 75 F. Use insect netting, airflow, sanitation, and humidity control to reduce pest and disease pressure.
 
 The phrase "year-round" requires winter light planning in Washington. Measure or estimate DLI and add supplemental greenhouse lighting if winter production must be reliable.
-
-## Cost And Build Time
-
-Base hydroponic build estimates, excluding tax, shipping, greenhouse structure, heat, cooling, benches, and supplemental lighting:
-
-| System | Estimated cost | Notes |
-| --- | ---: | --- |
-| 4-bucket food-safe HDPE DWC | $207-$268 | Modular first production setup |
-| 8-bucket food-safe HDPE DWC | $282-$364 | Better cost per plant after trial |
-| Compact food-service PP/HDPE reservoir | $162-$236 | Simpler shared reservoir |
-| Hole saw and GFCI cord, if needed | Add $47-$60 | Common first-build tools |
-| Premium meter upgrade | Add $85-$110 | Better EC and pH reliability |
-
-Hands-on build time is about 2-3 hours. First plantable setup is usually the next day because water should mix, aerate, stabilize, and be rechecked before transplant.
 
 ## Maintenance
 
