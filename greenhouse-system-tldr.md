@@ -34,6 +34,18 @@ Automation and future resilience are separate costs. The basic-alerts estimate i
 | pH/EC monitoring | $500-$775, or $625-$750 kit path | Monitoring only, not automatic dosing |
 | Solar-thermal water-barrel enhancement | Future sizing required | Treat as greenhouse air buffering, not DWC heating |
 
+## Food Production Estimate
+
+These are conservative fresh-harvest estimates for looseleaf lettuce, mini-romaine, bok choy, herbs, or similar leafy greens. They assume adequate light, root-zone temperature control, stable pH/EC, and a 6-7 week crop cycle. For planning, use about `0.25-0.4 lb` per full-size bucket site and `0.15-0.25 lb` per smaller shared-reservoir site.
+
+| System | Plant sites | Per-cycle harvest | Staggered monthly average | Household meaning |
+| --- | ---: | ---: | ---: | --- |
+| Compact food-service PP/HDPE reservoir | 4-6 small sites | 0.6-1.5 lb | 0.4-0.9 lb/month | Side salads, herbs, and greens top-ups |
+| 4-bucket food-safe HDPE DWC | 4 full-size sites | 1.0-1.6 lb | 0.6-1.0 lb/month | Small but steady salad supply |
+| 8-bucket food-safe HDPE DWC | 8 full-size sites | 2.0-3.2 lb | 1.2-2.0 lb/month | Main salad supply for one light-to-moderate eater |
+
+Cut-and-come-again harvest can stretch leaf lettuce and herbs, but quality usually declines after 2-3 cuts. In Western Washington from roughly November through February, greenhouse light can be too low for meaningful leafy-green production without supplemental lighting; harvestable growth may slow to near zero even if plants stay alive.
+
 ## Purpose
 
 Build a year-round greenhouse system for leafy greens using food-contact hydroponic hardware, conservative nutrient management, and monitoring-first automation. The starting point is mineral-nutrient deep water culture (DWC), not aquaponics or automatic chemical dosing.
