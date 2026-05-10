@@ -4,6 +4,9 @@ Planning notes for a sustainable year-round greenhouse hydroponic system for lea
 
 ## Documents
 
+- [Greenhouse Hydroponic System TL;DR](greenhouse-system-tldr.md)  
+  One-page separated overview of the full food-safe greenhouse hydroponic system, including physical build, nutrients, environment, maintenance, automation, hardening, aquaponics, and safety gates.
+
 - [Outdoor DWC Leafy Greens Build Plan](outdoor-dwc-leafy-greens-build-plan.md)  
   Food-production material standards, system options, BOM cost breakdowns, build instructions, operating targets, and maintenance guidance.
 
